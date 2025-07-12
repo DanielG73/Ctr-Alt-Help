@@ -208,8 +208,8 @@ img {
 .nav_button {
   display: inline-block;
   margin: 8px 12px;
-  padding: 12px 22px;
-  font-size: 1.05rem;
+  padding: 16px 28px; /* יותר גובה ורוחב פנימיים */
+  font-size: 1.2rem;   /* טקסט טיפה יותר גדול */
   font-weight: 500;
   background-color: #0078d4;
   color: white;
