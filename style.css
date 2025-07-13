@@ -77,7 +77,12 @@ body {
   display: inline;
   box-shadow: none;
 }
-
+.hover-zoom {
+  transition: transform 0.3s ease;
+}
+.hover-zoom:hover {
+  transform: scale(1.15);
+}
 /* כותרות משניות */
 h2.title_1 {
   font-size: 1.3rem;
